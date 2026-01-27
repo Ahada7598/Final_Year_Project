@@ -1,0 +1,20 @@
+[
+  {
+    "bid_id": 1,
+    "procurement_id": 100006,
+    "vendor_code": "V999",
+    "vendor_name": "Vendor Buyer",
+    "bid_amount": 4271080.5,
+    "bid_date": "2026-01-26 18:17:17",
+    "status": "Submitted"
+  },
+  {
+    "bid_id": 2,
+    "procurement_id": 100006,
+    "vendor_code": "V999",
+    "vendor_name": "Vendor Buyer",
+    "bid_amount": 39888937.800000004,
+    "bid_date": "2026-01-27 12:33:15",
+    "status": "Submitted"
+  }
+]

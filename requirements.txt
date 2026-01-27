@@ -1,0 +1,21 @@
+streamlit==1.28.0
+pandas==2.1.3
+plotly==5.17.0
+oracledb==3.4.1
+scikit-learn==1.3.0
+statsmodels==0.14.0
+
+🏃‍♂️ Quick Start
+1. Install dependencies: `pip install -r requirements.txt`
+2. Initialize database: `python database/init_db.py`
+3. Run dashboard: `python -m streamlit run dashboard/app.py`
+
+📊 Detection Rules
+1. **Cost Overrun**: Contracts exceeding 10% over estimated cost
+2. **Direct Large Contracts**: > $1M awarded via Direct/Limited bidding
+3. **Short Duration**: Contracts completed in < 30 days
+
+👨‍💻 Authors
+|Abdul AHad|
+|Muhammad Ahmed| - Final Year Project
+|Muhammad Wasay Khan|

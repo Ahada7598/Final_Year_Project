@@ -1,0 +1,21 @@
+agency_code,agency_name,agency_type
+AG01,Ministry of Finance,Federal
+AG02,Ministry of Health,Federal
+AG03,Ministry of Education,Provincial
+AG04,Ministry of Transport,Federal
+AG05,Ministry of Energy,Federal
+AG06,Planning Commission,Federal
+AG07,Public Works Department,Federal
+AG08,Water & Power Authority,Federal
+AG09,Higher Education Commission,Provincial
+AG10,National Highway Authority,Federal
+AG11,Provincial Health Dept,Federal
+AG12,Provincial Education Dept,Federal
+AG13,Provincial Transport Dept,Federal
+AG14,Local Government Dept,Federal
+AG15,Information Technology Board,Federal
+AG16,Urban Development Authority,Federal
+AG17,Rural Development Dept,Provincial
+AG18,Environmental Protection Agency,Federal
+AG19,Food Department,Provincial
+AG20,Industries Department,Provincial
