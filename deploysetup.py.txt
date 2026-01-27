@@ -1,0 +1,13 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="procurement-anomaly-detection",
+    version="1.0.0",
+    packages=find_packages(),
+    install_requires=[
+        "streamlit>=1.28.0",
+        "pandas>=2.1.0",
+        "plotly>=5.18.0",
+        "scikit-learn>=1.3.0",
+    ],
+)

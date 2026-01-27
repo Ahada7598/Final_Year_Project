@@ -1,9 +1,9 @@
 {
-  "load_time_seconds": 25.860952854156494,
+  "load_time_seconds": 22.776487827301025,
   "total_rows": 100530,
   "agencies": 20,
   "vendors": 500,
   "world_bank": 10,
   "procurements": 100000,
-  "timestamp": "2026-01-27 12:28:21"
+  "timestamp": "2026-01-27 16:41:33"
 }
